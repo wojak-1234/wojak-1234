@@ -1,22 +1,37 @@
 ## Hi there 👋
+<p align="center">
+    ### 최민준 (minjun choi)
+</p>
+
+🎓 Sophomore in Computer Science at Pusan National University
+- 🔭 I’m learning various languages & frameworks
+- 🌱 Learning LangGraph & RAG  
+- 💡 Interested in automation and LLM applications, AI agents
 ---
-🧠 Core
+### 🧠 AI \ LLM
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=python" />
   </a>
 </p>
-<!--
-**wojak-1234/wojak-1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
+### 🛠 System \ Backend
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=flask,js,java" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🛠 Frontend \ Others
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=discord,html,js,css" />
+</p>
+
+---
+### 📚 Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,c" />
+  </a>
+</p>
+
