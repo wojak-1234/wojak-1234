@@ -32,7 +32,10 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,c" />
-  </a>
+  
+    
+---
+### 🛢️ DB
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
-
-
