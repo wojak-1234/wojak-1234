@@ -5,5 +5,5 @@
 <hr>
 
 - 🔭 I’m learning various languages & frameworks
-- 🌱 Learning LangGraph & RAG  
+- 🌱 Learning Cybersecurity & Harness Engineering
 - 💡 Interested in automation and LLM applications, AI agents
