@@ -6,4 +6,4 @@
 
 - 🔭 I’m learning various languages & frameworks
 - 🌱 Learning Cybersecurity & Harness Engineering
-- 💡 Interested in automation and LLM applications, AI agents
+- 💡 Currently Grinding in automation and LLM applications, AI agents
